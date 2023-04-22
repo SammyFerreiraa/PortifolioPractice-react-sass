@@ -4,6 +4,7 @@
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-links">Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -12,7 +13,7 @@
 
 <br>
 
-## 🧾Sobre
+## 🧾 Sobre
 
 Projeto feito junto com o Matheus Battist, visando a pratica do React e SASS.
 
@@ -28,5 +29,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJs
 - SASS
+
+## 🧾 Links
+
+Acesse o projeto [aqui](https://sammyferreira.vercel.app).
 
 ---
