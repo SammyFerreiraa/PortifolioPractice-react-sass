@@ -4,7 +4,7 @@ import {
     DiJsBadge,
     DiNodejsSmall,
     DiReact,
-    DiBootstrap
+    DiSass
   } from "react-icons/di";
   
   import "../styles/components/technologiescontainer.sass";
@@ -15,7 +15,7 @@ import {
     { id: "js", name: "JavaScript", icon: <DiJsBadge />, texto: 'Experiência e conhecimento avançado em JavaScript' },
     { id: "node", name: "Node.js", icon: <DiNodejsSmall />, texto: 'Estudando NodeJs' },
     { id: "react", name: "React", icon: <DiReact />, texto: 'Estudando ReactJs' },
-    { id: "bootstrap", name: "Bootstrap", icon: <DiBootstrap />, texto: 'Estudando Bootstrap' }
+    { id: "sass", name: "Sass", icon: <DiSass />, texto: 'Estudando Sass' }
   ];
   
   const TechnologiesContainer = () => {
